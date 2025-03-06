@@ -34,6 +34,24 @@ The code is organized as:
 
 > **Slopefail.mpm**:  Failure of slope
 
+**docs**: Detailed explanations of parameters, subroutines, and equations for each source code file
+
+> **Constitution.md**: Explanation of `Constitution.f90`
+
+> **DataIn.md**: Explanation of `DataIn.f90`
+
+> **DataOut.md**: Explanation of `DataOut.f90`
+
+> **FFI.md**: Explanation of `FFI.f90`
+
+> **Grid.md**: Explanation of `Grid.f90`
+
+> **MPM3D.md**: Explanation of `MPM3D.f90`
+
+> **Particle.md**: Explanation of `Particle.f90`
+
+> **update_step.md**: Explanation of `update_step.f90`
+
 ## Compile and baisc usage
 
 Under **Linux**, you can compile and run an example by the following code:
